@@ -8,6 +8,7 @@ A robust management application for handling people and books information, lever
 
 - **Spring Boot** for backend development
 - **JPA** for data persistence and **DTOs** for data transfer
+- **JWT** and **Spring Security**
 - **Flyway** for database migrations
 - **SLF4J** for logging
 - **Swagger/Open API** for API documentation
