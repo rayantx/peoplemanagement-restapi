@@ -10,7 +10,7 @@ A robust management application for handling people and books information, lever
 - **JPA** for data persistence and **DTOs** for data transfer
 - **Flyway** for database migrations
 - **SLF4J** for logging
-- **Swagger** for API documentation
+- **Swagger/Open API** for API documentation
 - **JUnit** for unit testing
 - **Test Containers** and **Rest Assured** for integration testing
 - **Jasper Reports** for dynamic report generation
