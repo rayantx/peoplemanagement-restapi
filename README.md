@@ -13,6 +13,7 @@ A robust management application for handling people and books information, lever
 - **SLF4J** for logging
 - **Swagger/Open API** for API documentation
 - **JUnit** for unit testing
+- **Mockito** for data mocks
 - **Test Containers** and **Rest Assured** for integration testing
 - **Jasper Reports** for dynamic report generation
 - **Spring Email/Gmail** for email services
